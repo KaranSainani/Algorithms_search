@@ -1,7 +1,7 @@
 
 Práctica 1 - Fundamentos de Sistemas Inteligentes
 
-Estrategias de Búsquedas
+Estrategias de Búsquedas implementadas
 
 No informada: Anchura, Profundidad y Ramificación y Acotación
 
